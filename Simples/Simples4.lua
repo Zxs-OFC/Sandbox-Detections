@@ -5,4 +5,4 @@ if a ~= "a%20b%26c" then
     error("")
 end
 
-print("Passed")
+print("Passed bruh")
